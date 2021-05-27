@@ -1,0 +1,7 @@
+__pycache__
+*.py[cod]
+test.py
+test1.py
+.idea
+websocket_client.py
+websocket_server.py
