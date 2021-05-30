@@ -1,5 +1,5 @@
 """
-
+module main.py main working module where imported websocketserver module
 """
 import websocketserver
 
